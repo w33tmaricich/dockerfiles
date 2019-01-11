@@ -1,5 +1,5 @@
 FROM nginx
-LABEL maintainer=w33tmaricich@gmail.com
+MAINTAINER amaricich <w33tmaricich@gmail.com>
 
 EXPOSE 80
 
